@@ -1,1 +1,1 @@
-# Sojasoft.BCrypt
+BCrypt.NET is a Universal Encryption utility implementing the Blowfish. It works on various platforms like Desktop Application, ASP.NET Application, Windows Universal Application for Windows Store, Phone and Windows IoT Core
