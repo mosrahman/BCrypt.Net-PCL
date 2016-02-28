@@ -17,9 +17,9 @@ Console.WriteLine("Don’t Match");
 }
 
 The GenerateSalt() method takes an optional integer parameter that determines the computational complexity of the hashing:
-string SaltStrong10 = BCrypt.GenerateSalt(10);
-string SaltStrong12 = BCrypt.GenerateSalt(12);
+string SaltStrong20 = BCrypt.GenerateSalt(20);
+string SaltStrong23 = BCrypt.GenerateSalt(23);
 
-The amount of work increases exponentially (2**number), so each increment is twice as much work. The default number is 10, and the valid range is 4 to 31.
+The amount of work increases exponentially (2**number). The default number is 10, and the valid range is 4 to 31.
 
 
