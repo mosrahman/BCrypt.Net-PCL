@@ -11,7 +11,7 @@ To hash a password for the first time, call the `HashPassword()` method with a r
 
 `string pass =  global::BCrypt.Net.BCrypt.HashPassword("password", global::BCrypt.Net.BCrypt.GenerateSalt());`
 
-To check whether a plaintext password matches one that has been hashed previously, use the `CheckPassword()` method:
+To check whether a plain text password matches one that has been hashed previously, use the `CheckPassword()` method:
 
 `if (global::BCrypt.Net.BCrypt.CheckPassword("password", pass)) {`
 `Console.WriteLine("Match");`
