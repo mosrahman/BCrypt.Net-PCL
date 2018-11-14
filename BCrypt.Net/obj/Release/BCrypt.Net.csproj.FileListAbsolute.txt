@@ -1,0 +1,4 @@
+C:\Users\mosta\Documents\Visual Studio 2015\Projects\BCrypt.Net\BCrypt.Net\bin\Release\BCrypt.Net.dll
+C:\Users\mosta\Documents\Visual Studio 2015\Projects\BCrypt.Net\BCrypt.Net\bin\Release\BCrypt.Net.pdb
+C:\Users\mosta\Documents\Visual Studio 2015\Projects\BCrypt.Net\BCrypt.Net\obj\Release\BCrypt.Net.dll
+C:\Users\mosta\Documents\Visual Studio 2015\Projects\BCrypt.Net\BCrypt.Net\obj\Release\BCrypt.Net.pdb

@@ -1,0 +1,5 @@
+C:\Users\mosta\Documents\Visual Studio 2015\Projects\BCrypt.Net\BCrypt.Net\bin\Debug\BCrypt.Net.dll
+C:\Users\mosta\Documents\Visual Studio 2015\Projects\BCrypt.Net\BCrypt.Net\bin\Debug\BCrypt.Net.pdb
+C:\Users\mosta\Documents\Visual Studio 2015\Projects\BCrypt.Net\BCrypt.Net\obj\Debug\BCrypt.Net.csprojResolveAssemblyReference.cache
+C:\Users\mosta\Documents\Visual Studio 2015\Projects\BCrypt.Net\BCrypt.Net\obj\Debug\BCrypt.Net.dll
+C:\Users\mosta\Documents\Visual Studio 2015\Projects\BCrypt.Net\BCrypt.Net\obj\Debug\BCrypt.Net.pdb
