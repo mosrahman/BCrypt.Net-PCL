@@ -4,8 +4,8 @@ BCrypt.Net is a Universal Encryption(Blowfish) utility for Windows, Universal Wi
 # How to use it
 Add reference to your code like this.
 
-`using BCrypt.Net;`
-`using BCrypt = BCrypt.Net.BCrypt;`
+'''using BCrypt.Net;
+using BCrypt = BCrypt.Net.BCrypt;'''
 
 To hash a password for the first time, call the `HashPassword()` method with a random salt, like this:
 
