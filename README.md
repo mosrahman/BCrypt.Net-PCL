@@ -1,5 +1,4 @@
-# BCrypt.NET
-BCrypt.Net is a Universal Encryption(Blowfish) utility for Windows, Universal Windows Application, Windows IoT Core, Store Application, Phone, Asp.Net Web Application and Xamarin.
+BCrypt.Net-PCL is a Universal Encryption(Blowfish) utility for Windows, Universal Windows Application, Windows IoT Core, Store Application, Phone, Asp.Net Web Application and Xamarin.
 
 # How to use it
 Add reference to your code like-
